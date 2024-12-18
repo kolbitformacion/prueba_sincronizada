@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<table_data name="productos">
+	<row>
+		<field name="idproducto">1</field>
+		<field name="prod_descripcion">Disco externo 1 Tb usb</field>
+		<field name="prod_marca">Seagate</field>
+		<field name="prod_modelo">FireCuda</field>
+		<field name="prod_familia">Disco duro</field>
+		<field name="prod_precio">155.8</field>
+		<field name="prod_fecha_precio">2020-04-12</field>
+		<field name="prod_stock">11</field>
+	</row>
+	<row>
+		<field name="idproducto">2</field>
+		<field name="prod_descripcion">Cable HDMI 1.5m.</field>
+		<field name="prod_marca"></field>
+		<field name="prod_modelo"></field>
+		<field name="prod_familia">Cable</field>
+		<field name="prod_precio">12</field>
+		<field name="prod_fecha_precio">2018-05-14</field>
+		<field name="prod_stock">39</field>
+	</row>
+	<row>
+		<field name="idproducto">3</field>
+		<field name="prod_descripcion">PC X3456  i9 - 16Gb - 512 SSD</field>
+		<field name="prod_marca">Dell</field>
+		<field name="prod_modelo">XPS</field>
+		<field name="prod_familia">Sobremesa</field>
+		<field name="prod_precio">975</field>
+		<field name="prod_fecha_precio">2021-06-23</field>
+		<field name="prod_stock">5</field>
+	</row>
+	<row>
+		<field name="idproducto">4</field>
+		<field name="prod_descripcion">Teclado USB inalambrico</field>
+		<field name="prod_marca">Logitech</field>
+		<field name="prod_modelo">T769X</field>
+		<field name="prod_familia">Teclado</field>
+		<field name="prod_precio">22.5</field>
+		<field name="prod_fecha_precio">2020-12-08</field>
+		<field name="prod_stock">30</field>
+	</row>
+	<row>
+		<field name="idproducto">5</field>
+		<field name="prod_descripcion">Pen Drive 4 Gb USB 2.0</field>
+		<field name="prod_marca">Toshiba</field>
+		<field name="prod_modelo">4T</field>
+		<field name="prod_familia">Memoria USB</field>
+		<field name="prod_precio">21</field>
+		<field name="prod_fecha_precio">2019-05-12</field>
+		<field name="prod_stock">0</field>
+	</row>
+	<row>
+		<field name="idproducto">6</field>
+		<field name="prod_descripcion">Disco 4Tb usb 3.0</field>
+		<field name="prod_marca">Seagate</field>
+		<field name="prod_modelo">Barracuda</field>
+		<field name="prod_familia">Disco duro</field>
+		<field name="prod_precio">315</field>
+		<field name="prod_fecha_precio">2020-07-30</field>
+		<field name="prod_stock">6</field>
+	</row>
+	<row>
+		<field name="idproducto">7</field>
+		<field name="prod_descripcion">Cable VGA</field>
+		<field name="prod_marca"></field>
+		<field name="prod_modelo"></field>
+		<field name="prod_familia">Cable</field>
+		<field name="prod_precio">4.5</field>
+		<field name="prod_fecha_precio">2019-03-16</field>
+		<field name="prod_stock">29</field>
+	</row>
+	<row>
+		<field name="idproducto">8</field>
+		<field name="prod_descripcion">Pen Drive 32 Gb USB 3.0</field>
+		<field name="prod_marca">SanDisk</field>
+		<field name="prod_modelo">Ultra Flair</field>
+		<field name="prod_familia">Memoria USB</field>
+		<field name="prod_precio">17.7</field>
+		<field name="prod_fecha_precio">2020-03-16</field>
+		<field name="prod_stock">16</field>
+	</row>
+	<row>
+		<field name="idproducto">9</field>
+		<field name="prod_descripcion">Pen Drive 16 Gb USB 2.0</field>
+		<field name="prod_marca">SanDisk</field>
+		<field name="prod_modelo">Ultra Flair</field>
+		<field name="prod_familia">Memoria USB</field>
+		<field name="prod_precio">12</field>
+		<field name="prod_fecha_precio">2020-06-04</field>
+		<field name="prod_stock">27</field>
+	</row>
+	<row>
+		<field name="idproducto">10</field>
+		<field name="prod_descripcion">Cable alimentacion PC</field>
+		<field name="prod_marca"></field>
+		<field name="prod_modelo"></field>
+		<field name="prod_familia">Cable</field>
+		<field name="prod_precio">3</field>
+		<field name="prod_fecha_precio">2019-10-01</field>
+		<field name="prod_stock">12</field>
+	</row>
+	<row>
+		<field name="idproducto">11</field>
+		<field name="prod_descripcion">Disco externo 2 Tb USB 3.0</field>
+		<field name="prod_marca">Toshiba</field>
+		<field name="prod_modelo">TX12</field>
+		<field name="prod_familia">Disco externo</field>
+		<field name="prod_precio">121</field>
+		<field name="prod_fecha_precio">2010-04-07</field>
+		<field name="prod_stock">2</field>
+	</row>
+	<row>
+		<field name="idproducto">12</field>
+		<field name="prod_descripcion">Portatil i7 - 14 - 16Gb - 512 SSD</field>
+		<field name="prod_marca">Toshiba</field>
+		<field name="prod_modelo">X365B</field>
+		<field name="prod_familia">Portatil</field>
+		<field name="prod_precio">1223</field>
+		<field name="prod_fecha_precio">2018-05-25</field>
+		<field name="prod_stock">20</field>
+	</row>
+	<row>
+		<field name="idproducto">13</field>
+		<field name="prod_descripcion">Portatil i5 - 15.6 - 8Gb - 1T HD</field>
+		<field name="prod_marca">Acer</field>
+		<field name="prod_modelo">A678</field>
+		<field name="prod_familia">Portatil</field>
+		<field name="prod_precio">875</field>
+		<field name="prod_fecha_precio">2019-04-16</field>
+		<field name="prod_stock">11</field>
+	</row>
+	<row>
+		<field name="idproducto">14</field>
+		<field name="prod_descripcion">IPad PRO 2020</field>
+		<field name="prod_marca">Apple</field>
+		<field name="prod_modelo">Pro</field>
+		<field name="prod_familia">Tablet</field>
+		<field name="prod_precio">1299</field>
+		<field name="prod_fecha_precio">2021-05-22</field>
+		<field name="prod_stock">26</field>
+	</row>
+	<row>
+		<field name="idproducto">15</field>
+		<field name="prod_descripcion">Portatil i7 -15.6 - 16Gb - 512 SSD</field>
+		<field name="prod_marca">Asus</field>
+		<field name="prod_modelo">ZenBook</field>
+		<field name="prod_familia">Portatil</field>
+		<field name="prod_precio">2150</field>
+		<field name="prod_fecha_precio">2021-03-10</field>
+		<field name="prod_stock">30</field>
+	</row>
+	<row>
+		<field name="idproducto">16</field>
+		<field name="prod_descripcion">Disco SATA3 SS5</field>
+		<field name="prod_marca">Western Digital</field>
+		<field name="prod_modelo">Blue</field>
+		<field name="prod_familia">Disco duro</field>
+		<field name="prod_precio">72</field>
+		<field name="prod_fecha_precio">2021-10-02</field>
+		<field name="prod_stock">16</field>
+	</row>
+	<row>
+		<field name="idproducto">17</field>
+		<field name="prod_descripcion">SSD Interna Crucial2 Tb 3d Nand SATA</field>
+		<field name="prod_marca">Crucial</field>
+		<field name="prod_modelo">MX500</field>
+		<field name="prod_familia">Disco SSD</field>
+		<field name="prod_precio">169.27</field>
+		<field name="prod_fecha_precio">2021-11-07</field>
+		<field name="prod_stock">92</field>
+	</row>
+	<row>
+		<field name="idproducto">18</field>
+		<field name="prod_descripcion">Cable USB Impresora</field>
+		<field name="prod_marca"></field>
+		<field name="prod_modelo"></field>
+		<field name="prod_familia">Cable</field>
+		<field name="prod_precio">3.3</field>
+		<field name="prod_fecha_precio">2021-11-18</field>
+		<field name="prod_stock">12</field>
+	</row>
+	<row>
+		<field name="idproducto">19</field>
+		<field name="prod_descripcion">Cable adaptador VGA/HDMI</field>
+		<field name="prod_marca"></field>
+		<field name="prod_modelo"></field>
+		<field name="prod_familia">Cable</field>
+		<field name="prod_precio">9.75</field>
+		<field name="prod_fecha_precio">2019-05-01</field>
+		<field name="prod_stock">26</field>
+	</row>
+	<row>
+		<field name="idproducto">20</field>
+		<field name="prod_descripcion">Pen Drive 64 Gb USB 3.0</field>
+		<field name="prod_marca">Toshiba</field>
+		<field name="prod_modelo">64-3</field>
+		<field name="prod_familia">Memoria USB</field>
+		<field name="prod_precio">39</field>
+		<field name="prod_fecha_precio">2019-04-10</field>
+		<field name="prod_stock">29</field>
+	</row>
+	<row>
+		<field name="idproducto">21</field>
+		<field name="prod_descripcion">Pen Drive 128 Gb USB 3.0</field>
+		<field name="prod_marca">Toshiba</field>
+		<field name="prod_modelo">128-3</field>
+		<field name="prod_familia">Memoria USB</field>
+		<field name="prod_precio">52.5</field>
+		<field name="prod_fecha_precio">2018-03-13</field>
+		<field name="prod_stock">21</field>
+	</row>
+	<row>
+		<field name="idproducto">22</field>
+		<field name="prod_descripcion">Disco externo 2.5&quot; 4TB USB 3.0</field>
+		<field name="prod_marca">Seagate</field>
+		<field name="prod_modelo">Expansion</field>
+		<field name="prod_familia">Disco externo</field>
+		<field name="prod_precio">92.99</field>
+		<field name="prod_fecha_precio">2021-01-12</field>
+		<field name="prod_stock">31</field>
+	</row>
+	<row>
+		<field name="idproducto">23</field>
+		<field name="prod_descripcion">Raton USB inalambrico</field>
+		<field name="prod_marca">Logitech</field>
+		<field name="prod_modelo">R456</field>
+		<field name="prod_familia">Raton</field>
+		<field name="prod_precio">9.7</field>
+		<field name="prod_fecha_precio">2019-07-16</field>
+		<field name="prod_stock">10</field>
+	</row>
+</table_data>

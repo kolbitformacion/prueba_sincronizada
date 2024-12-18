@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="00_club">
+	<table_structure name="jugadores">
+		<field Field="id_jugador" Type="int" Null="NO" Key="PRI" Extra="" Comment="" />
+		<field Field="nombre" Type="varchar(45)" Null="NO" Key="" Extra="" Comment="" />
+		<field Field="apellidos" Type="varchar(45)" Null="NO" Key="" Extra="" Comment="" />
+		<field Field="dni" Type="varchar(10)" Null="NO" Key="" Extra="" Comment="" />
+		<key Table="jugadores" Non_unique="0" Key_name="PRIMARY" Seq_in_index="1" Column_name="id_jugador" Collation="A" Cardinality="1" Null="" Index_type="BTREE" Comment="" Index_comment="" Visible="YES" />
+		<options Name="jugadores" Engine="InnoDB" Version="10" Row_format="Dynamic" Rows="1" Avg_row_length="16384" Data_length="16384" Max_data_length="0" Index_length="0" Data_free="0" Create_time="2024-07-21 13:09:53" Update_time="2024-07-21 13:10:39" Collation="utf8mb4_0900_ai_ci" Create_options="" Comment="" />
+	</table_structure>
+	<table_data name="jugadores">
+	<row>
+		<field name="id_jugador">1</field>
+		<field name="nombre">Pablito</field>
+		<field name="apellidos">Lopez</field>
+		<field name="dni">x5672432b</field>
+	</row>
+	</table_data>
+</database>
+</mysqldump>
